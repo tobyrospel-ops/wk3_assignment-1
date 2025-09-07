@@ -1,11 +1,36 @@
         html {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: aquamarine;
+            background-color: rgb(255, 255, 255);
             color: rgb(0, 0, 0);
         }
-        
-        h1 {
-            color:rgb(255, 0, 0);
+        .large-image {
+            width: 500px;
+            height: auto;
+        }
+        nav {
+            background-color: aqua;
+            border: 1px solid black;
+            padding: 15px 25;
+        }
+        h3 {
+            color:rgb(0, 0, 0);
+            font-size: x-large;
+        }
+        h4 {
+            color:rgb(0, 0, 0);
+            font-size: x-large;
+        }
+        h5 {
+            color:rgb(0, 0, 0);
+            font-size: x-large;
+        }
+        p   {
+            font-size: larger;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        li  {
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: large;
         }
         a {
             text-decoration: none;
@@ -13,18 +38,9 @@
             font-weight: 600;
         }
         a:hover {
-            text-decoration: underline;
-            font-weight: 900;
-            color: brown;
+            text-decoration:none;
+            font-weight: 500;
+            color: rgb(255, 255, 255);
+            background-color: rgb(4, 81, 109);
         }
-        .most-important {
-            background-color: rgb(125, 243, 243);
-            margin: 10px;
-            padding: 10px;
-            border: 2px solid black;
-            border-radius: 10px;
-        }
-        #other-content {
-            background-color: rgb(255, 129, 129);
-            padding: 15px;
-        }
+        

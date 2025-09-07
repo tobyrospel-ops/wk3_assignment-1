@@ -4,12 +4,57 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Favorite Restaurants</title>
     <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
-    
+    <nav>
+        <a href="Webpage HTML">Home</a>
+        <a href="#Article">Article</a>
+        <a href="#About Author">About the Author</a>
+    </nav>
+<hr>
+<article>
+<h1 id="Article">Best Restaurants in Saipan</h1>
+<p>Everyone, and I mean Everyone loves food. Food is not only what we need it's also culture and a good dining experience is great. In this article, I would like to give you the best restaurant you can find on the island of Saipan</p>
+<h2>My 3 favorite Restaurants are:</h2>
+<ol>
+    <li>Surf Club</li>
+    <li>J's Restaurant and Bar</li>
+    <li>Cha Cafe</li>
+</ol>
+</article>
+<br>
+<article>
+    <h3>1. Surf's Club</h3>
+    <img src="Surf Club.jpg" class="large-image" alt="Surf's Club">
+    <p>Surf's Club has an amazing oceanview, food, and staff. you can get your traditional island mixed with American and Asian style food with an awesome ocean view at this Restaurant.This restaurant has a stand out items like fried lumpia, lemongrass chicken, loco moco, crab pasta, and tuna poke.</p>
+</article>
+<br>
+<article>
+    <h4>2. J's Restaurant</h4>
+    <img src="J's Restaurant and Bar.jpg" class="large-image" alt="J's Restaurant">
+    <p>J's Restaurant and Bar is a really good place to eat if you are from The Philippines. This restaurant/bar has a great selection of Filipino Food like crispy pat and bulalo.</p>
+</article>
+<br>
+<article>
+    <h5>3. Cha Cafe</h5>
+    <img src="Cha Cafe.jpg" class="large-image" alt="Surf's Club">
+    <p></p>
+</article>
+<article>
+    <h6>3 Important Things to know</h6>
+    <ul>
+        <li>These restaurants are on google maps, which you</li>
+        <li>They all have social media, mainly Facebook or Instagram</li>
+        <li>They are all very welcoming</li>
+    </ul>
+</article>
+<hr>
+<footer>
+    <p id="About Author">About the Author</p>
+    <a href="toby.rospel@my.marianas.edu">toby.rospel@my.marianas.edu</a><br>
+    <a href="Number:(670)484-7471">(670)484-7471</a>
+</footer>
 </body>
-
 </html>
